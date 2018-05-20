@@ -82,8 +82,8 @@ cd PRNet
 3. Run the test code.
 
 ```bash
-python run_basics.py #Can run only with python and tensorflow
-python run.py # need dlib and opencv(show the alignment and pose results).
+python3 run_basics.py #Can run only with python and tensorflow
+python3 run.py # need dlib and opencv(show the alignment and pose results).
 ```
 
 
